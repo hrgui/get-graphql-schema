@@ -1,0 +1,13 @@
+{
+  "name": "@hrgui/get-graphql-schema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-request": "^4.2.0",
+    "yargs": "^17.4.1"
+  },
+  "devDependencies": {
+    "graphql": "^16.4.0"
+  }
+}
